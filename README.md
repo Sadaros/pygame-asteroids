@@ -1,1 +1,1 @@
-My completeion of the boot.dev Build Asteroirds course
+My completeion of the boot.dev Build Asteroids course
